@@ -2,4 +2,4 @@ FROM almalinux:9
 LABEL trainer="Sindhu" \
       course="docker" \
       Description="this is docker practice"
- CMD ["sleep" , "25"]     
+ CMD [ "sleep" , "25" ]     
